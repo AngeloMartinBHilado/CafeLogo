@@ -19,10 +19,10 @@
 			
 				</div>
 				<div class="nav">
-				<a class="active" href="index.html">Home</a> 
-				<a href="about_us.html">About Us</a> 
-				<a href="services.html">Services</a> 
-				<a href="contact_us.html">Contact Us</a>
+				<a class="active" href="index.php">Home</a> 
+				<a href="about_us.php">About Us</a> 
+				<a href="services.php">Services</a> 
+				<a href="contact_us.php">Contact Us</a>
 			</div>	
 		</div>	
 	</body>
